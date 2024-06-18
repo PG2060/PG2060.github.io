@@ -10,14 +10,14 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: GHHS.jpg
     content: GHHS.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>17001 Ferris St</p>
       <p>Grand Haven, MI 49417</p>
   - align: left
-    image: prof_pic.jpg
+    image: Screenshot 2024-06-17 235446.png
     content: MSU.md
     image_circular: false # crops the image to make it circular
     more_info: >
