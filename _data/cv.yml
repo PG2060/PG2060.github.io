@@ -1,3 +1,13 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Prashant Gurung
+    - name: Date of Birth
+      value: 13th September 2003
+    - name: Languages
+      value: English, Nepali, Hindi
+
 - title: Experience
   type: time_table
   contents:
