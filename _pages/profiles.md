@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Education
-description: members of the lab or group
+description:
 nav: true
 nav_order: 7
 
