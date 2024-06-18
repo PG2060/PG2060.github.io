@@ -1,25 +1,17 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: pic_for_web.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello, my name is Prashant Gurung. I was born in Kathmandu, Nepal, but immigrated to the United States of America when I was around 13 years old. Since then, I've called Michigan my new home. I am currently pursuing a degree in Computer Science at Michigan State University. I chose to major in CS because I believe technology has been driving innovation and impacting the world, and I want to be part of it. I have experience in Python and C++, with more languages to be added to my experience in the future. My former employers have mentioned that I have a strong work ethic and am great at communicating with co-workers or customers.
