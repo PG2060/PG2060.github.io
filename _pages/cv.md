@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: Education
+title: Experience
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
+cv_pdf: 
 description: 
 toc:
   sidebar: left
